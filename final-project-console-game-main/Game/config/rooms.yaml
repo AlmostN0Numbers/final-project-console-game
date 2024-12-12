@@ -1,0 +1,18 @@
+"Starting Room":
+  contents: [poison frog]
+  doors:
+      green: "Closet"
+      blue: "Mystic Room"
+"Closet":
+  contents: [broom, mop, bucket, poster]
+  doors:
+      green: "Starting Room"
+"Mystic Room":
+  contents: [excalibur]
+  doors:
+      blue: "Starting Room"
+      green: "Secret Chamber"
+"Secret Chamber":
+  contents: [key, poster]
+  doors:
+      red: "Mystic Room"
