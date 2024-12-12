@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-12T02:16:46" hostname="DESKTOP-33V2FI8" time="0.053">
+  <properties/>
+  <testcase name="testEndings" classname="GameTest" time="0.044"/>
+  <testcase name="testYAML" classname="GameTest" time="0.006"/>
+  <testcase name="testLockedDoor" classname="GameTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
